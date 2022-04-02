@@ -10,7 +10,9 @@
         <div id=" objects">
           Блок, содержащий список блоков
             </div>
-        </div id="content">
+        <div id="content">
       Блок, содержащий описание обьектов
+          </div>
+        </div>
   </body>
   <html>
