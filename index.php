@@ -6,6 +6,7 @@
   <body>
     <div id=" cantainer">
       блок, содержащий список категорий
+      </div>
       <div id=" container:">
         <div id=" objects">
           Блок, содержащий список блоков
