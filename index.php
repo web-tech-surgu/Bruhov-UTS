@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Лабораторная работа 6. Блочная верстка сайта</title>
+        <title>Блочная верстка сайта</title>
         <link rel="stylesheet" type="text/css" href="style.scss" />
     </head>
     <body>
