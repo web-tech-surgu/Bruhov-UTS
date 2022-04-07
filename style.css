@@ -1,50 +1,16 @@
-body {
-     background: #FFFFFF;
-     color: #000;
-     font-family: Arial, sans-serif;
-     font-size: 14px;
+#categories {
+background: #A9F5F2;
+height: 20%
 }
-
-#header {
-     background: #C0C0C0;
-     width: 100%;
-     height: 55px;
+#objects {
+background: #F7BE81;
+float: left;
+width: 30%;
+height: 100%;
 }
- 
-#container {
-     background: #000000;
-     margin: auto auto;
-     text-align: center;
-     width: 80%;
-     height: 400px;
-}
- 
-#navigation {
-     background: #C0C0C0;
-     width: 100%;
-     height: 25px;
-}
- 
-#sidebar {
-     background: #FF00FF;
-     float: left;
-     width: 20%;
-     height: 280px;
-}
-
 #content {
-     background: #000000;
-     float: right;
-     width: 80%;
-     height: 280px;
-}
- 
-#clear {
-     clear: both;
-}
- 
-#footer {
-    background: #FF00FF;
-	width: 100%;
-	height: 40px;
+background: #9FF781;
+float: right;
+width: 70%;
+height: 100%;
 }
